@@ -1,0 +1,31 @@
+{
+  "name": "nuxt-hf",
+  "version": "1.0.0",
+  "description": "Pagina alternativa para https://highframe.tech",
+  "main": "/home/runner/highframetechmain/pages/index.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hf": "echo  \"Pagina oficial https://highframe.tech\" && exit 1",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "author": "Tdroid2.0",
+  "license": "MIT",
+  "dependencies": {
+    "connect-mongo": "^4.4.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "node-fetch": "^2.6.1",
+    "nuxt": "^2.15.6",
+    "passport": "^0.4.1",
+    "ufo": "^0.7.5",
+    "unfetch": "^4.2.0",
+    "vue": "^2.6.13",
+    "vue-client-only": "^2.1.0",
+    "vue-meta": "^2.4.0",
+    "vue-no-ssr": "^1.1.1",
+    "vue-router": "^3.5.1"
+  }
+}
