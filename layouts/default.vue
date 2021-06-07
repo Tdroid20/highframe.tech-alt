@@ -1,4 +1,5 @@
 <template>
+
 	<div>
 		<head>
 <link rel="stylesheet" href="/header.css">
@@ -6,6 +7,7 @@
 <script src="https://kit.fontawesome.com/21c5879a52.js" crossorigin="anonymous"></script>
  </head> 
  <body>
+	 <header>
 	 <!--class="d-inline-block align-top"-->
 	 <div>
 		<a id="logo" class="navbar-brand" href="/" color="#fff">

@@ -2,11 +2,9 @@
   "name": "nuxt-hf",
   "version": "1.0.0",
   "description": "Pagina alternativa para https://highframe.tech",
-  "main": "/home/runner/highframetechmain/pages/index.vue",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "hf": "echo  \"Pagina oficial https://highframe.tech\" && exit 1",
-    "dev": "nuxt",
+    "dev": "node server.js",
     "build": "nuxt build",
     "generate": "nuxt generate",
     "start": "nuxt start"
